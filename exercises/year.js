@@ -12,14 +12,13 @@
 
 
 
-
 /*
 * ces lignes d'en bas vont tester votre code et vous dire si cest juste ou pas donc n'y touchez pas
 */
 
 //* Début des tests du code de l'étudiant
 
-const verif = reuire('assert')
+const verif = require('assert')
 
 verif.strictEqual(typeof fromYear, 'function')
 verif.strictEqual(fromYear.length, 1)
