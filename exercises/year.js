@@ -22,7 +22,6 @@ const verif = require('assert')
 
 verif.strictEqual(typeof fromYear, 'function')
 verif.strictEqual(fromYear.length, 1)
-verif.strictEqual(fromYear.toString().includes('Math.imul'), false)
 verif.strictEqual(fromYear(1905), 20)
 verif.strictEqual(fromYear(1700), 17)
 
