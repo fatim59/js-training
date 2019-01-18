@@ -22,7 +22,7 @@ const pkg = require('./package.json')
 const readFile = promisify(fs.readFile)
 
 const current = []
-const ok = '  ✓ '.grn()
+const ok = '  ✓ '.grn() + ' est juste ! vous passez au niveau suivant'
 
 const formatPathParts = (value, i) => i
   ? ':'.mgt() + value.blu()
