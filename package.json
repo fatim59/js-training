@@ -1,7 +1,11 @@
 {
   "private": true,
-  "index": "primitives.js",
+  "index": "year.js",
   "tests": [
+    {
+      "name": "fromYear",
+      "tags": "math"
+    },
     {
       "name": "primitives",
       "tags": [ "basics", "declaration" ]
