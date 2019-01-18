@@ -3,7 +3,7 @@
   "index": "year.js",
   "tests": [
     {
-      "name": "fromYear",
+      "name": "year",
       "tags": "math"
     },
     {
