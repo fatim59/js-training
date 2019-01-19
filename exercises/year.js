@@ -10,7 +10,10 @@
 //Commencez à écrire votre code ici
 
 
-
+function fromYear(year){
+  var century = Math.floor((year +99) / 100);
+  return century;
+}
 
 /*
 * ces lignes d'en bas vont tester votre code et vous dire si cest juste ou pas donc n'y touchez pas
