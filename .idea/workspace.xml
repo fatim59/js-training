@@ -3,9 +3,46 @@
   <component name="ChangeListManager">
     <list default="true" id="73f0877f-2c53-4c74-92c3-c49ad54ed793" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/year.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/year.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tester" beforeDir="false" afterPath="$PROJECT_DIR$/tester" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/callback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/data-structures.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/functions-as-values.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/get.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/if-else.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/loops.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/methods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/primitive-and-operators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/promise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/recursion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ternary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/variables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/abs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/capitalize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/circular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/concat-str.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/cut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/get-first.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/get-last.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/get.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/is-positive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/jaden-case.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/keep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/multiply-recursive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/multiply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/repeat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/same-sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/sentence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/total.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/whisper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/words.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/yell.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,23 +54,64 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tester">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="188">
+              <caret line="125" column="19" selection-start-line="125" selection-start-column="19" selection-end-line="125" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/max.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/primitives.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/arr.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/get-length.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/age.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/add.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -57,14 +135,14 @@
         <option value="$PROJECT_DIR$/tester" />
         <option value="$PROJECT_DIR$/exercises/global.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="121" />
-    <option name="y" value="147" />
-    <option name="width" value="1744" />
-    <option name="height" value="956" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -82,11 +160,6 @@
               <item name="js-training" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-training" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="js-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-training" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -96,9 +169,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nodejs/robot" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -111,6 +185,23 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="update" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="update" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.update" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -127,27 +218,26 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6790000" />
+    <option name="totallyTimeSpent" value="7133000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="121" y="147" width="1744" height="956" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15264075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15615384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298611" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -167,13 +257,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/global.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/global.js" />
     <entry file="file://$PROJECT_DIR$/exercises/multiply.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -189,7 +273,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises/primitives.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tester">
       <provider selected="true" editor-type-id="text-editor">
@@ -198,10 +286,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/escape-str.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="188">
+          <caret line="125" column="19" selection-start-line="125" selection-start-column="19" selection-end-line="125" selection-end-column="19" />
         </state>
       </provider>
     </entry>
