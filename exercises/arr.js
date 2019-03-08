@@ -1,7 +1,7 @@
 'use strict'
 
 /*
- * Create a constant variable named `arr` that is an array containing the values 4 and '2'
+ * Create a constant variable named `arr` that is an array containing the values 219 and 'NaN'
  *
  * @notions Data-Structures
  */
@@ -12,7 +12,7 @@
 const assert = require('assert')
 
 assert.strictEqual(Array.isArray(arr), true)
-assert.strictEqual(arr[0], 4)
-assert.strictEqual(arr[1], '2')
+assert.strictEqual(arr[0], 219)
+assert.strictEqual(arr[1], 'NaN')
 assert.strictEqual(arr.length, 2)
 // End of tests */

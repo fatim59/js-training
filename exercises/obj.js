@@ -15,13 +15,13 @@ const assert = require('assert')
 assert.strictEqual(typeof obj, 'object')
 
 assert.strictEqual(typeof obj.str, 'string')
-assert.strictEqual(obj.str, '1337')
+assert.strictEqual(obj.str, 'NaN')
 
 assert.strictEqual(typeof obj.num, 'number')
-assert.strictEqual(obj.num, 42)
+assert.strictEqual(obj.num, 219)
 
 assert.strictEqual(typeof obj.bool, 'boolean')
-assert.strictEqual(obj.bool, false)
+assert.strictEqual(obj.bool, true)
 
 assert.strictEqual(typeof obj.undef, 'undefined')
 assert.strictEqual(obj.undef, undefined)

@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/nan-academy/js-training.svg?branch=master)](https://travis-ci.org/nan-academy/js-training)
 ## Setup
-First, [**fork**](https://github.com/nan-academy/js-training/fork?fragment=1) this repository.
+First, [**fork**](https://github.com/oraclerevolution/js-training/fork?fragment=1) this repository.
 ### globals dependencies
 install globaly node on your computer
 
@@ -21,8 +21,10 @@ You may either use our test tool to check all files
 ```sh
 # run the test runner
 ./tester
+# if you are on windows run
+node tester
 ```
-![output-tester](https://github.com/nan-academy/js-training/blob/master/img/output-tester.png)
+![output-tester](https://github.com/oraclerevolution/js-training/blob/master/img/output-tester.png)
 
 Or you can run only a some tests with
 ```sh

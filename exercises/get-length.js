@@ -13,7 +13,7 @@
 const assert = require('assert')
 
 assert.strictEqual(getLength([ 2, 42 ]), 2)
-assert.strictEqual(getLength([ 'pouet', 4, true ]), 3)
+assert.strictEqual(getLength([ 'NaN', 4, true ]), 3)
 assert.strictEqual(getLength(Array(100)), 100)
 assert.strictEqual(getLength([ getLength ]), 1)
 assert.strictEqual(getLength('salut'), 5)
